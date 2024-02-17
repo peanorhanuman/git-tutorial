@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('vesion3 update');
+console.log('vesion12 update');
